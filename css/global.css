@@ -11,8 +11,8 @@ button {
 }
 
 body {
-    background-image: url(/images/wave.svg);
     background-color: rgb(35,124,105);
+    background-image: url(../images/wave.svg);
 }
 
 article {
@@ -55,7 +55,7 @@ p {
     position: absolute;
 
     top: 40%;
-    right: 14%;
+    right: 12%;
     width: 42vh;
     height: 60vh;
     background-image: url(../images/woman.png);
