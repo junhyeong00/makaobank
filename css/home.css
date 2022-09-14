@@ -27,12 +27,14 @@ h2 {
 }
 
 #home-img {
-    position: fixed;
+    position: absolute;
 
     top: 38%;
     right: 250px;
     width: 65vh;
     height: 40vh;
+
+
 }
 
 main nav {
