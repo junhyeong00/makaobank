@@ -14,8 +14,8 @@ h2 {
 .main {
     position: absolute;
 
-    margin: 0 1em;
-    padding: 0 1em;
+    margin: 0 5em;
+    padding: 0 3em;
 
     display: flex;
 
@@ -26,16 +26,13 @@ h2 {
     width: 100%;
 }
 
-.home-img {
-    position: absolute;
+#home-img {
+    position: fixed;
 
     top: 38%;
-    left: 50%;
+    right: 250px;
     width: 65vh;
     height: 40vh;
-    
-    background-image: url(../images/saving.png);
-    background-size: contain;
 }
 
 main nav {
